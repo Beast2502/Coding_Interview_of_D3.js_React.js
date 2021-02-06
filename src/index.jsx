@@ -42,7 +42,8 @@ class Index extends Component {
           .attr('y',d=> h -yscale(d.sales))
           .attr('width', xscale.bandwidth())
           .attr('height', d=> yscale(d.sales) )
-          .attr('fill','red') ;
+          .style("stroke", "red")
+          .attr('fill','green') ;
 
           
 
