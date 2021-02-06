@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Beast2502/Coding_Interview_of_D3.js_React.js/static/css/main.1375bc10.chunk.css",
+    "main.js": "/Beast2502/Coding_Interview_of_D3.js_React.js/static/js/main.c94649ff.chunk.js",
+    "main.js.map": "/Beast2502/Coding_Interview_of_D3.js_React.js/static/js/main.c94649ff.chunk.js.map",
+    "runtime-main.js": "/Beast2502/Coding_Interview_of_D3.js_React.js/static/js/runtime-main.560b8adf.js",
+    "runtime-main.js.map": "/Beast2502/Coding_Interview_of_D3.js_React.js/static/js/runtime-main.560b8adf.js.map",
+    "static/js/2.176b9d81.chunk.js": "/Beast2502/Coding_Interview_of_D3.js_React.js/static/js/2.176b9d81.chunk.js",
+    "static/js/2.176b9d81.chunk.js.map": "/Beast2502/Coding_Interview_of_D3.js_React.js/static/js/2.176b9d81.chunk.js.map",
+    "index.html": "/Beast2502/Coding_Interview_of_D3.js_React.js/index.html",
+    "static/css/main.1375bc10.chunk.css.map": "/Beast2502/Coding_Interview_of_D3.js_React.js/static/css/main.1375bc10.chunk.css.map",
+    "static/js/2.176b9d81.chunk.js.LICENSE.txt": "/Beast2502/Coding_Interview_of_D3.js_React.js/static/js/2.176b9d81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.560b8adf.js",
+    "static/js/2.176b9d81.chunk.js",
+    "static/css/main.1375bc10.chunk.css",
+    "static/js/main.c94649ff.chunk.js"
+  ]
+}
